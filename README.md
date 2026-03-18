@@ -60,9 +60,9 @@ public class Developer {
 |---|---|
 | **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) |
 | **On the Roadmap** | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) |
-| **Security Tools** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-| **OS**| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **Security Tools** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) [![PortCat (by Me)](https://img.shields.io/badge/PortCat_(by%20Me)-FF4444?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/dev-mca/port-cat) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) |
+| **OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 </div>
 
@@ -89,10 +89,10 @@ public class Developer {
 <div align="center">
 
 <a href="https://github.com/dev-mca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-mca&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage"/>
 </a>
 <a href="https://github.com/dev-mca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mca&layout=compact&langs_count=8&theme=radical"/>
 </a>
 
 </div>
@@ -105,7 +105,7 @@ public class Developer {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=redical&bg_color=141321&color=fe428e&line=fe428e&point=ffd700&area=true&hide_border=false)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-mca&theme=redical&bg_color=141321&color=fe428e&line=fe428e&point=ffd700&area=true&hide_border=false)
 
 </div>
 
@@ -115,7 +115,7 @@ public class Developer {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)
+![Trophies](https://github-trophies.vercel.app/?username=dev-mca&theme=radical&margin-w=4&row=1)
 
 </div>
 
@@ -125,8 +125,9 @@ public class Developer {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN) -->
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM) -->
+[![E-Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melihcan05@protonmail.com)
 
 </div>
 
@@ -134,8 +135,7 @@ public class Developer {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=fe428e&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=dev-mca&color=fe428e&style=flat-square&label=PROFILE+VIEWS)
 
-*⚡ Fuelled by caffeine, curiosity and the sound of a good engine note.*
 
 </div>
