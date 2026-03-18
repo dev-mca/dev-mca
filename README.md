@@ -61,7 +61,8 @@ public class Developer {
 | **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) |
 | **On the Roadmap** | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) |
 | **Security Tools** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+| **OS**| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 </div>
 
@@ -73,13 +74,13 @@ public class Developer {
 [ GARAGE LOG ]
 ──────────────────────────────────────────────────
   Status    : Fully obsessed with anything on 4 wheels
-  Favourite : High-revving, naturally aspirated engines 🔊
-  Dream car : You know the one 😏
-  Track mode: ALWAYS ON
+  Favourite : If it combusts it's valid
+  Dream car : Ferrari 458 Italia!
+  Huh       : Complaining about fuel prices but driving crazy
 ──────────────────────────────────────────────────
 ```
 
-> From ECU remaps to lap times — if it's got an engine, I'm interested. 🏁
+> From ECU remaps to car parts — if it's got an engine, I'm interested. 🏁
 
 ---
 
@@ -87,10 +88,10 @@ public class Developer {
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/dev-mca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/dev-mca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=radical"/>
 </a>
 
