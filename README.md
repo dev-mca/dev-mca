@@ -68,6 +68,18 @@ public class Developer {
 
 ---
 
+## 🌍 Open Source Contributions
+
+<div align="center">
+
+| Project | What it is | My Contribution |
+|---|---|---|
+| [**AnyPS5**](https://github.com/boykopovar/AnyPS5) ![Stars](https://img.shields.io/github/stars/boykopovar/AnyPS5?style=flat-square&color=fe428e) | Tool for automatic PS5 executable porting to Linux & Windows · C++20 · Vulkan | [![Merged PR](https://img.shields.io/badge/PR-merged-8957e5?style=flat-square&logo=github)](https://github.com/boykopovar/AnyPS5/pulls?q=is%3Apr+author%3Adev-mca+is%3Amerged) |
+
+</div>
+
+---
+
 ## 🏎️ Car Enthusiast Corner
 
 ```
@@ -99,13 +111,13 @@ public class Developer {
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=dev-mca&theme=radical&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-mca&theme=redical&bg_color=141321&color=fe428e&line=fe428e&point=ffd700&area=true&hide_border=false)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-mca&theme=radical&bg_color=141321&color=fe428e&line=fe428e&point=ffd700&area=true&hide_border=false)
 
 </div>
 
