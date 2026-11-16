@@ -28,8 +28,8 @@ Computer science student at FHNW (BSc, part-time) in Switzerland, working in pub
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-mca&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mca&layout=compact&langs_count=6&theme=radical" alt="Most used languages">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=dev-mca&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub stats">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-mca&layout=compact&langs_count=6&theme=radical" alt="Most used languages">
 </p>
 
 <p align="center">
