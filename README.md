@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="https://github.com/dev-mca"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Melih%20Can&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=CS%20student%20%C2%B7%20Builder%20%C2%B7%20Linux%20%26%20Security&descSize=24&descAlignY=64" width="100%" alt="Melih Can" /></a>
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+computer+science+student+%40+FHNW;%3E+building+small+tools;%3E+running+my+own+Linux+server;%3E+learning+security" width="100%" alt="Typing lines" />
+  <a href="https://github.com/dev-mca"><img src="banner.svg" width="100%" alt="Melih Can" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=58A6FF&background=0D1117&center=true&vCenter=true&width=854&height=64&lines=%3E+computer+science+student+%40+FHNW;%3E+building+small+tools;%3E+running+my+own+Linux+server;%3E+learning+security" width="100%" alt="Typing lines" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/dev-mca/port-cat"><img src="https://img.shields.io/badge/PortCat-Java%20desktop%20app-A21517?style=for-the-badge&labelColor=0A0A0A" alt="PortCat" /></a>
-  <a href="https://github.com/boykopovar/AnyPS5"><img src="https://img.shields.io/badge/Open%20source-PR%20merged-A21517?style=for-the-badge&labelColor=0A0A0A" alt="Open source" /></a>
-  <a href="https://www.linkedin.com/in/melihcan-abay"><img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge&labelColor=0A0A0A" alt="LinkedIn" /></a>
-  <a href="mailto:melihcan05@protonmail.com"><img src="https://img.shields.io/badge/Email-ProtonMail-A21517?style=for-the-badge&labelColor=0A0A0A&logo=protonmail&logoColor=white" alt="Email" /></a>
-  <a href="https://instagram.com/codingmca"><img src="https://img.shields.io/badge/Instagram-%40codingmca-A21517?style=for-the-badge&labelColor=0A0A0A&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://github.com/dev-mca/port-cat"><img src="https://img.shields.io/badge/PortCat-Java%20desktop%20app-1F6FEB?style=for-the-badge&labelColor=0D1117" alt="PortCat" /></a>
+  <a href="https://github.com/boykopovar/AnyPS5"><img src="https://img.shields.io/badge/Open%20source-PR%20merged-1F6FEB?style=for-the-badge&labelColor=0D1117" alt="Open source" /></a>
+  <a href="https://www.linkedin.com/in/melihcan-abay"><img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&labelColor=0D1117" alt="LinkedIn" /></a>
+  <a href="mailto:melihcan05@protonmail.com"><img src="https://img.shields.io/badge/Email-ProtonMail-1F6FEB?style=for-the-badge&labelColor=0D1117&logo=protonmail&logoColor=white" alt="Email" /></a>
+  <a href="https://instagram.com/codingmca"><img src="https://img.shields.io/badge/Instagram-%40codingmca-1F6FEB?style=for-the-badge&labelColor=0D1117&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ## 🧬 about
@@ -47,7 +47,7 @@ me = {
       <sub><b>team project · ongoing</b></sub>
       <p>Haircut configurator with a 3D head model, built with a Scrum team for a client at FHNW.</p>
       <p><code>Vue.js</code> <code>Spring Boot</code></p>
-      <a href="https://barbershop.fhnw.dev"><img src="https://img.shields.io/badge/try_the_demo-A21517?style=for-the-badge" alt="Try the demo" /></a>
+      <a href="https://barbershop.fhnw.dev"><img src="https://img.shields.io/badge/try_the_demo-1F6FEB?style=for-the-badge" alt="Try the demo" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🏎️ <a href="https://github.com/dev-mca/tuning-sim">tuning-sim</a></h3>
@@ -89,18 +89,18 @@ me = {
 ## 📊 stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=dev-mca&show_icons=true&include_all_commits=true&bg_color=0A0A0A&title_color=A21517&icon_color=A21517&text_color=FFFFFF&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-mca&layout=compact&langs_count=6&bg_color=0A0A0A&title_color=A21517&text_color=FFFFFF&hide_border=true" alt="Most used languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=dev-mca&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=1F6FEB&icon_color=1F6FEB&text_color=FFFFFF&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-mca&layout=compact&langs_count=6&bg_color=0D1117&title_color=1F6FEB&text_color=FFFFFF&hide_border=true" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-mca&bg_color=0A0A0A&color=A21517&line=A21517&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-mca&bg_color=0D1117&color=1F6FEB&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
 <p align="center"><b>Working on something cool? I'd love to hear about it.</b></p>
 
 <p align="center">
-  <a href="mailto:melihcan05@protonmail.com"><img src="https://img.shields.io/badge/say_hi-A21517?style=for-the-badge" alt="Email me" /></a>
+  <a href="mailto:melihcan05@protonmail.com"><img src="https://img.shields.io/badge/say_hi-1F6FEB?style=for-the-badge" alt="Email me" /></a>
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=90&section=footer&text=thanks%20for%20stopping%20by&fontSize=30&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Thanks for stopping by" /></p>
+<p align="center"><img src="footer.svg" width="100%" alt="Thanks for stopping by" /></p>
