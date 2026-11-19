@@ -6,6 +6,7 @@
 <p align="center">
   <a href="https://github.com/dev-mca/port-cat"><img src="https://img.shields.io/badge/PortCat-Java%20desktop%20app-A21517?style=for-the-badge&labelColor=0A0A0A" alt="PortCat" /></a>
   <a href="https://github.com/boykopovar/AnyPS5"><img src="https://img.shields.io/badge/Open%20source-PR%20merged-A21517?style=for-the-badge&labelColor=0A0A0A" alt="Open source" /></a>
+  <a href="https://www.linkedin.com/in/melihcan-abay"><img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge&labelColor=0A0A0A" alt="LinkedIn" /></a>
   <a href="mailto:melihcan05@protonmail.com"><img src="https://img.shields.io/badge/Email-ProtonMail-A21517?style=for-the-badge&labelColor=0A0A0A&logo=protonmail&logoColor=white" alt="Email" /></a>
   <a href="https://instagram.com/codingmca"><img src="https://img.shields.io/badge/Instagram-%40codingmca-A21517?style=for-the-badge&labelColor=0A0A0A&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
@@ -47,6 +48,20 @@ me = {
       <p>Haircut configurator with a 3D head model, built with a Scrum team for a client at FHNW.</p>
       <p><code>Vue.js</code> <code>Spring Boot</code></p>
       <a href="https://barbershop.fhnw.dev"><img src="https://img.shields.io/badge/try_the_demo-A21517?style=for-the-badge" alt="Try the demo" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏎️ <a href="https://github.com/dev-mca/tuning-sim">tuning-sim</a></h3>
+      <sub><b>engine tuning simulator</b></sub>
+      <p>ECU maps, turbo and dyno, with physically synthesised engine sound.</p>
+      <p><code>C++</code> <code>TypeScript</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/dev-mca/engineering-fundamentals">engineering-fundamentals</a></h3>
+      <sub><b>Claude plugin / skill</b></sub>
+      <p>A plugin and skill for Claude around engineering fundamentals.</p>
+      <p><code>Claude</code> <code>Skill</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>📂 <a href="https://github.com/dev-mca?tab=repositories">More work</a></h3>
