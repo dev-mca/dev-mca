@@ -1,50 +1,91 @@
-# Hi, I'm Melih Can 👋
-
-Computer science student at FHNW (BSc, part-time) in Switzerland, working in public administration alongside my studies. I like building small tools, running my own Linux server and learning about security.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## Projects
-
-| Project | What it is | Tech |
-|---|---|---|
-| [PortCat](https://github.com/dev-mca/port-cat) | Desktop app that shows a PC's active network connections in real time (Windows and Linux) | Java, JavaFX, Maven |
-| [hardened-debian-homeserver](https://github.com/dev-mca/hardened-debian-homeserver) | My home server on an old notebook: Pi-hole, cloud storage and a Minecraft server in Docker, secured with UFW and Tailscale | Debian, Docker, Bash |
-| [SHAIVE](https://barbershop.fhnw.dev) | Haircut configurator with a 3D head model, built with a Scrum team for a client at FHNW (ongoing) | Vue.js, Spring Boot |
-
-## Open source
-
-| Project | My contribution |
-|---|---|
-| [AnyPS5](https://github.com/boykopovar/AnyPS5) ![Stars](https://img.shields.io/github/stars/boykopovar/AnyPS5?style=flat-square) | Key code conversion with unit test · [![Merged PR](https://img.shields.io/badge/PR-merged-8957e5?style=flat-square&logo=github)](https://github.com/boykopovar/AnyPS5/pulls?q=is%3Apr+author%3Adev-mca+is%3Amerged) |
-
-## GitHub stats
-
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=dev-mca&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub stats">
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-mca&layout=compact&langs_count=6&theme=radical" alt="Most used languages">
+  <a href="https://github.com/dev-mca"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Melih%20Can&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=CS%20student%20%C2%B7%20Builder%20%C2%B7%20Linux%20%26%20Security&descSize=24&descAlignY=64" width="100%" alt="Melih Can" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+computer+science+student+%40+FHNW;%3E+building+small+tools;%3E+running+my+own+Linux+server;%3E+learning+security" width="100%" alt="Typing lines" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-mca&theme=radical&bg_color=141321&color=fe428e&line=fe428e&point=ffd700&area=true&hide_border=false" alt="Contribution graph">
+  <a href="https://github.com/dev-mca/port-cat"><img src="https://img.shields.io/badge/PortCat-Java%20desktop%20app-A21517?style=for-the-badge&labelColor=0A0A0A" alt="PortCat" /></a>
+  <a href="https://github.com/boykopovar/AnyPS5"><img src="https://img.shields.io/badge/Open%20source-PR%20merged-A21517?style=for-the-badge&labelColor=0A0A0A" alt="Open source" /></a>
+  <a href="mailto:melihcan05@protonmail.com"><img src="https://img.shields.io/badge/Email-ProtonMail-A21517?style=for-the-badge&labelColor=0A0A0A&logo=protonmail&logoColor=white" alt="Email" /></a>
+  <a href="https://instagram.com/codingmca"><img src="https://img.shields.io/badge/Instagram-%40codingmca-A21517?style=for-the-badge&labelColor=0A0A0A&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-## Currently learning
+## 🧬 about
 
-Cybersecurity, TypeScript and Python.
+```python
+me = {
+    "does":     "builds small tools, runs his own Linux server, learns security",
+    "based":    "Switzerland",
+    "studies":  "Computer Science (BSc, part-time) @ FHNW",
+    "works":    "in public administration, alongside my studies",
+    "learning": ["Cybersecurity", "TypeScript", "Python"],
+    "outside":  ["cars 🏎️", "martial arts 🥋"],
+}
+```
 
-## Outside of code
+## 🚀 projects
 
-Cars 🏎️ and martial arts 🥋
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐱 <a href="https://github.com/dev-mca/port-cat">PortCat</a></h3>
+      <sub><b>desktop app · Windows &amp; Linux</b></sub>
+      <p>Shows a PC's active network connections in real time.</p>
+      <p><code>Java</code> <code>JavaFX</code> <code>Maven</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/dev-mca/hardened-debian-homeserver">hardened-debian-homeserver</a></h3>
+      <sub><b>my own home server</b></sub>
+      <p>Old notebook running Pi-hole, cloud storage and a Minecraft server in Docker, secured with UFW and Tailscale.</p>
+      <p><code>Debian</code> <code>Docker</code> <code>Bash</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💈 <a href="https://barbershop.fhnw.dev">SHAIVE</a></h3>
+      <sub><b>team project · ongoing</b></sub>
+      <p>Haircut configurator with a 3D head model, built with a Scrum team for a client at FHNW.</p>
+      <p><code>Vue.js</code> <code>Spring Boot</code></p>
+      <a href="https://barbershop.fhnw.dev"><img src="https://img.shields.io/badge/try_the_demo-A21517?style=for-the-badge" alt="Try the demo" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📂 <a href="https://github.com/dev-mca?tab=repositories">More work</a></h3>
+      <sub><b>everything else</b></sub>
+      <p>More projects live in my repositories.</p>
+    </td>
+  </tr>
+</table>
 
-## Contact
+## 🤝 open source
 
-[![Email](https://img.shields.io/badge/Email-melihcan05%40protonmail.com-555?style=flat-square&logo=protonmail&logoColor=white)](mailto:melihcan05@protonmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%40codingmca-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/codingmca)
+<table>
+  <tr>
+    <td width="36%" valign="top"><b><a href="https://github.com/boykopovar/AnyPS5">AnyPS5</a></b><br /><img src="https://img.shields.io/github/stars/boykopovar/AnyPS5?style=flat-square" alt="Stars" /></td>
+    <td valign="top">Key code conversion with unit test. <a href="https://github.com/boykopovar/AnyPS5/pulls?q=is%3Apr+author%3Adev-mca+is%3Amerged"><img src="https://img.shields.io/badge/PR-merged-8957e5?style=flat-square&logo=github" alt="Merged PR" /></a></td>
+  </tr>
+</table>
+
+## 🧰 stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,vue,cpp,lua,ts,py,docker,linux,debian,bash,git,github&perline=13&theme=dark" alt="Tech stack" />
+</p>
+
+## 📊 stats
+
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=dev-mca&show_icons=true&include_all_commits=true&bg_color=0A0A0A&title_color=A21517&icon_color=A21517&text_color=FFFFFF&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-mca&layout=compact&langs_count=6&bg_color=0A0A0A&title_color=A21517&text_color=FFFFFF&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-mca&bg_color=0A0A0A&color=A21517&line=A21517&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
+</p>
+
+<p align="center"><b>Working on something cool? I'd love to hear about it.</b></p>
+
+<p align="center">
+  <a href="mailto:melihcan05@protonmail.com"><img src="https://img.shields.io/badge/say_hi-A21517?style=for-the-badge" alt="Email me" /></a>
+</p>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=90&section=footer&text=thanks%20for%20stopping%20by&fontSize=30&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Thanks for stopping by" /></p>
